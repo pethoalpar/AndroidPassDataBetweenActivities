@@ -6,7 +6,7 @@ intent.putExtra("key",message);
 startActivity(intent);
 ```
 
-<h1>Read info from intent extra<h1>
+<h1>Read info from intent extra</h1>
 
 ```java
 Bundle bundle = getIntent().getExtras();
